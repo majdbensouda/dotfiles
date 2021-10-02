@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = majdbensouda98@gmail.com
+	name = majd bensouda
